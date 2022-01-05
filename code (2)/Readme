@@ -1,0 +1,8 @@
+Changes made:
+1. Changed how the dot appears for null cards
+2. Changed cards from Empty value to Null.
+3. Added detailed error messages to make it easier for the
+//added changes
+1. added a check for arguments in remove in Basic
+2. made a new helper called hasMove to override the inherited classes.
+user to understand.
